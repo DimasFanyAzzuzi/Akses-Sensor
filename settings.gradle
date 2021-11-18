@@ -1,0 +1,2 @@
+rootProject.name = "Akses Sensor"
+include ':app'
